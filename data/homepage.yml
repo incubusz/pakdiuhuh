@@ -1,0 +1,45 @@
+# banner
+banner:
+  title : "Hi! I’m <br> Pakdiuhuh <br> UI/UX designer"
+
+# skill
+skill:
+  enable : true
+  title : "Skills"
+  item:
+    - title : "Web Design"
+      progress : "80%"
+      color : "#ffbcaa"
+      
+    - title : "Logo Design"
+      progress : "40%"
+      color : "#9473e6"
+      
+    - title : "Whiteboard animation"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#fdb157"
+
+# service
+service:
+  enable : true
+  title : "Services"
+  item:
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Designing UI of the web."
+      highlighted : false
+
+    - title : "Graphic art Design"
+      icon : "ti-vector"
+      content : "vector art, logo and poster maker."
+      highlighted : true
+
+    - title : "Audio editing"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
